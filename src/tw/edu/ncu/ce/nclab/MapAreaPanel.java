@@ -15,6 +15,8 @@ import java.awt.event.MouseMotionListener;
 import javax.swing.BorderFactory;
 import javax.swing.JPanel;
 
+import core.Coord;
+
 public class MapAreaPanel extends JPanel implements MouseListener,
 		MouseMotionListener {
 

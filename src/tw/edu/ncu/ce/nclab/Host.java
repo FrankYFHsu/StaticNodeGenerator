@@ -12,6 +12,8 @@ import java.awt.geom.Ellipse2D;
 
 import javax.swing.JComponent;
 
+import core.Coord;
+
 public class Host extends JComponent {
 
 	/**
